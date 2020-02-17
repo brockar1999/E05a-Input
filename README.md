@@ -1,4 +1,4 @@
-# E05-Input
+# E05-Input Allie Brock MSCH-C220 Spring 2019
 
 This is an exercise to help you become accustomed to how Godot treats user input.
 
